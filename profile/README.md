@@ -1,1 +1,24 @@
-IyBXZXJrZXJvCgpJbmRlcGVuZGVudCBzdHVkaW8g4oCUIGRlc2lnbmluZyBhbmQgZW5naW5lZXJpbmcgd2ViIHByb2R1Y3RzLCBicmFuZHMsIGFuZCBBSSB0b29scy4KCiMjIFNlcnZpY2VzCgoqKkRlc2lnbioqIOKAlCBJbnRlcmZhY2VzIHdpdGggaW50ZW50OiBtaW5pbWFsLCBwcmVjaXNlLCBidWlsdCB0byBsYXN0LgotIFByb2R1Y3QgJiBicmFuZCBpZGVudGl0eQotIERlc2lnbiBzeXN0ZW1zCi0gUHJvdG90eXBpbmcKCioqRW5naW5lZXJpbmcqKiDigJQgRnVsbC1zdGFjayBidWlsZHMsIGZyb20gZmlyc3QgY29tbWl0IHRvIHByb2R1Y3Rpb24uCi0gTnV4dCAvIFZ1ZSAvIFR5cGVTY3JpcHQKLSBBUElzICYgZWRnZSBpbmZyYXN0cnVjdHVyZQotIFBlcmZvcm1hbmNlIGJ1ZGdldHMKCioqQUkgSW50ZWdyYXRpb24qKiDigJQgUHJhY3RpY2FsIEFJIGluc2lkZSByZWFsIHByb2R1Y3RzLCBub3QgZGVtb3MuCi0gTExNIGZlYXR1cmVzICYgYWdlbnRzCi0gUkFHIG92ZXIgeW91ciBkYXRhCi0gQXV0b21hdGlvbiB3b3JrZmxvd3MKCiMjIENvbnRhY3QKCi0gV2Vic2l0ZTogaHR0cHM6Ly93ZXJrZXJvLXN0dWRpby52ZXJjZWwuYXBwCg==
+# Werkero
+
+Independent studio — designing and engineering web products, brands, and AI tools.
+
+## Services
+
+**Design** — Interfaces with intent: minimal, precise, built to last.
+- Product & brand identity
+- Design systems
+- Prototyping
+
+**Engineering** — Full-stack builds, from first commit to production.
+- Nuxt / Vue / TypeScript
+- APIs & edge infrastructure
+- Performance budgets
+
+**AI Integration** — Practical AI inside real products, not demos.
+- LLM features & agents
+- RAG over your data
+- Automation workflows
+
+## Contact
+
+- Website: https://werkero-studio.vercel.app
